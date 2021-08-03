@@ -1,4 +1,4 @@
-# Frontend Mentor - Bookmark landing page solution
+# Frontend Mentor - Manage landing page solution
 
 ## Table of contents
 
