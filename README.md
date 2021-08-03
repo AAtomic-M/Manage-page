@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here](https://github.com/AAtomic-M/...)
-- Live Site URL: [here](https:// .netlify.app/)
+- Solution URL: [here](https://github.com/AAtomic-M/manage-page-master.git)
+- Live Site URL: [here](https://manage-page-frontendmentor.netlify.app/)
 
 ## My process
 
@@ -47,7 +47,6 @@ Made hole HTML5 markup first then CSS , and implemented some JS on the end. Usin
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - Vanila JS
 
 ### What I learned
